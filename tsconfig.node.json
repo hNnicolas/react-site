@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "typeRoots": ["./src/types"],
+    "composite": true,
+    "skipLibCheck": true,
+    "module": "ESNext",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "moduleResolution": "bundler",
+    "allowSyntheticDefaultImports": true,
+    "strict": true
+  },
+  "include": ["vite.config.ts"]
+}

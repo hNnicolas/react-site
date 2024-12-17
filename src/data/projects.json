@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "name": "Freshly Restaurant",
+      "siteReference": "https://newyork-freshly-restaurant.vercel.app/",
+      "description": "Freshly Restaurant is a showcase site for a quintessential New York restaurant, showcasing its unique ambiance and iconic dishes. This project was carried out as part of my training at 3W Academy.",
+      "github": "https://github.com/hNnicolas/Freshly-restaurant",
+      "id": 1
+    },
+    {
+      "name": "Nicolas portfolio",
+      "siteReference": "https://nicolas-huang.netlify.app/",
+      "description": "3-D portfolio website that showcases my projects and skills. Showcases skill in React Three Fiber and React Three Drei, as well as React best practices.",
+      "github": "https://github.com/hNnicolas/My-Portfolio",
+      "id": 2
+    },
+    {
+      "name": "Galaxy Generator",
+      "siteReference": "https://3dgalaxy-generator.netlify.app/",
+      "description": "Three-js project that uses particles and visual algorithms to generate an interactive three-dimensional galaxy.",
+      "github": "https://github.com/hNnicolas/galaxy",
+      "id": 3
+    },
+    {
+      "name": "Hello world agency",
+      "siteReference": "https://hello-world-agency.vercel.app/",
+      "description": "Hello world is a project carried out during my training at 3W Academy. This site features a fictional travel agency with a modern design and attractive interface, providing an immersive and intuitive user experience.",
+      "github": "",
+      "id": 4
+    },
+    {
+      "name": "Earth",
+      "siteReference": "https://3d-earth-shader.vercel.app/",
+      "description": "Earth is an interactive 3D simulation representing the rotating Earth, with day and night effects, clouds, a starry sky and the Moon in orbit, creating an immersive experience.",
+      "github": "https://github.com/hNnicolas/earth",
+      "id": 5
+    },
+    {
+      "name": "Fish Ocean",
+      "siteReference": "https://fish-ocean.vercel.app/",
+      "description": "The Fish Ocean Project is an interactive 3D experience that simulates an ocean with fish, created with React Fiber and Three.js. The project uses advanced visual effects to provide realistic and dynamic immersion in a marine environment.",
+      "github": "https://github.com/hNnicolas/fish-ocean-project",
+      "id": 6
+    }
+  ]
+}

@@ -21,7 +21,6 @@ step into the world of component-based web dev.
 - JavaScript (ES6+)
 - HTML5
 
-  ```
 3. Install dependencies:
   ```sh
   npm install
@@ -39,6 +38,3 @@ step into the world of component-based web dev.
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License.# react-site
